@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MaxMacia/OpenClassRooms_Projet6_exercice/issues"
   },
-  "homepage": "https://github.com/MaxMacia/OpenClassRooms_Projet6_exercice#readme"
+  "homepage": "https://github.com/MaxMacia/OpenClassRooms_Projet6_exercice#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
